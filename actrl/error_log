@@ -1,0 +1,6 @@
+[03-Jul-2023 22:05:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ghdtnh63yyx4/public_html/dynamic-co.com/actrl/system/libraries/Upload.php on line 670
+[03-Jul-2023 22:07:04 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ghdtnh63yyx4/public_html/dynamic-co.com/actrl/system/libraries/Upload.php on line 670
+[03-Jul-2023 22:09:37 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ghdtnh63yyx4/public_html/dynamic-co.com/actrl/system/libraries/Upload.php on line 670
+[03-Jul-2023 22:10:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ghdtnh63yyx4/public_html/dynamic-co.com/actrl/system/libraries/Upload.php on line 670
+[03-Jul-2023 22:27:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ghdtnh63yyx4/public_html/dynamic-co.com/actrl/system/libraries/Upload.php on line 670
+[31-Jan-2024 19:14:26 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ghdtnh63yyx4/public_html/dynamic-co.com/actrl/application/controllers/Services.php on line 97
